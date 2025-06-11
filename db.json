@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "home",
+      "link": "https//www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "title": "contact",
+      "link": "https//www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "title": "about",
+      "link": "https//www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "title": "gallery",
+      "link": "https//www.google.com",
+      "dropdown": [
+        { "id": 1, "title": "gallery-1", "link": "https://www.youtube.com" },
+        { "id": 2, "title": "gallery-2", "link": "https://www.youtube.com" },
+        { "id": 3, "title": "gallery-3", "link": "https://www.youtube.com" },
+        { "id": 4, "title": "gallery-4", "link": "https://www.youtube.com" }
+      ]
+    }
+  ],
+  "swiper": [
+    {
+      "id": 1,
+      "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fphlearn.com%2Ftutorial%2Fparallax%2F&psig=AOvVaw2Y6-NI3rAWxG653OjGr7Ar&ust=1749730198246000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjlzI-r6Y0DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 2,
+      "link": "https://blog.pixelfreestudio.com/wp-content/uploads/2024/07/maxresdefault-55-1-1-1024x576.jpg"
+    },
+    {
+      "id": 3,
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CDhMPQZh2Wl-gYGwVujKSZyt0_qjN6Oqkg&s"
+    }
+  ]
+}
